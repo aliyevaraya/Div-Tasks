@@ -1,0 +1,25 @@
+body {
+  background: url("../img/home-bg.jpg") top;
+  background-size: cover;
+}
+main {
+  height: 55vh;
+  margin: 200px 0 0 0;
+  text-align: center;
+}
+h1,
+h3,
+h5 {
+  color: #fff;
+}
+h1,
+h3 {
+  text-shadow: 2px 5px 8px #7b3414;
+}
+h1 {
+  font-size: 4em;
+  margin-bottom: 20px;
+}
+footer {
+  text-align: center;
+}
