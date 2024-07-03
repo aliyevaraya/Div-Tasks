@@ -261,6 +261,10 @@ footer {
 .socialicons i {
   margin: 0 10px 0 10px;
   font-size: 1.1em;
+  transition: .3s;
+}
+.socialicons i:hover {
+ color: #5234f9;
 }
 #footerbtm {
   text-align: end;
